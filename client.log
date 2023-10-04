@@ -1,0 +1,52 @@
+2023/10/03 20:15:09 Connected to the server at port 5001
+2023/10/03 20:15:09 Connected to the server at port 5002
+2023/10/03 20:15:23 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.0005556 +0000 UTC. Roundtrip Time: 1 ms
+2023/10/03 20:15:23 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.00026395 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/03 20:15:23 Time difference (offset) between server 1 and server 2: -291.65µs
+2023/10/03 20:15:32 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.0025614 +0000 UTC. Roundtrip Time: 5 ms
+2023/10/03 20:15:32 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.00026195 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/03 20:15:32 Time difference (offset) between server 1 and server 2: -291.65µs
+2023/10/03 20:15:35 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.0020028 +0000 UTC. Roundtrip Time: 4 ms
+2023/10/03 20:15:35 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.0002679 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/03 20:15:35 Time difference (offset) between server 1 and server 2: -291.65µs
+2023/10/04 11:00:59 Connected to the server at port 0
+2023/10/04 11:17:49 Connected to the server at port 5001
+2023/10/04 11:17:49 Connected to the server at port 5002
+2023/10/04 11:21:56 Connected to the server at port 5001
+2023/10/04 11:21:56 Connected to the server at port 5002
+2023/10/04 11:24:01 Connected to the server at port 5001
+2023/10/04 11:24:01 Connected to the server at port 5002
+2023/10/04 11:24:57 Connected to the server at port 5001
+2023/10/04 11:24:57 Connected to the server at port 5002
+2023/10/04 11:25:09 Connected to the server at port 5001
+2023/10/04 11:25:09 Connected to the server at port 5002
+2023/10/04 11:25:10 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.00691765 +0000 UTC. Roundtrip Time: 13 ms
+2023/10/04 11:25:10 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.00075955 +0000 UTC. Roundtrip Time: 1 ms
+2023/10/04 11:25:10 Time difference (offset) between server 1 and server 2: -6.1581ms
+2023/10/04 11:25:11 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.0005529 +0000 UTC. Roundtrip Time: 1 ms
+2023/10/04 11:25:11 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/04 11:25:11 Time difference (offset) between server 1 and server 2: -6.1581ms
+2023/10/04 11:25:11 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.00086295 +0000 UTC. Roundtrip Time: 1 ms
+2023/10/04 11:25:11 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.0002538 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/04 11:25:11 Time difference (offset) between server 1 and server 2: -6.1581ms
+2023/10/04 11:25:13 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.00081355 +0000 UTC. Roundtrip Time: 1 ms
+2023/10/04 11:25:13 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.00025335 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/04 11:25:13 Time difference (offset) between server 1 and server 2: -6.1581ms
+2023/10/04 11:25:13 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/04 11:25:13 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.0000627 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/04 11:25:13 Time difference (offset) between server 1 and server 2: -6.1581ms
+2023/10/04 11:27:04 Connected to the server at port 5001
+2023/10/04 11:27:04 Connected to the server at port 5002
+2023/10/04 11:27:44 Connected to the server at port 5001
+2023/10/04 11:27:44 Connected to the server at port 5002
+2023/10/04 11:27:51 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.00070105 +0000 UTC. Roundtrip Time: 1 ms
+2023/10/04 11:27:51 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.00026885 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/04 11:27:51 Time difference (offset) between server 1 and server 2: -432.2µs
+2023/10/04 11:28:41 Connected to the server at port 5001
+2023/10/04 11:28:41 Connected to the server at port 5002
+2023/10/04 11:28:45 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.00153915 +0000 UTC. Roundtrip Time: 3 ms
+2023/10/04 11:28:45 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.00083485 +0000 UTC. Roundtrip Time: 1 ms
+2023/10/04 11:28:45 Time difference (offset) between server 1 and server 2: -704.3µs
+2023/10/04 11:28:45 Server at port 5002 says the adjusted time is 0001-01-01 00:00:00.0025614 +0000 UTC. Roundtrip Time: 5 ms
+2023/10/04 11:28:45 Server at port 5001 says the adjusted time is 0001-01-01 00:00:00.0002561 +0000 UTC. Roundtrip Time: 0 ms
+2023/10/04 11:28:45 Time difference (offset) between server 1 and server 2: -704.3µs
